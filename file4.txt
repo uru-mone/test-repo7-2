@@ -1,1 +1,2 @@
 ini adalah file4.txt
+menambah baris baru di file4.txt
